@@ -1,0 +1,7 @@
+imageCreator:
+    convertLength: 100
+    fontFile: resource/style/AdobeHeitiStd-Regular.otf
+
+speedSetting:
+    maxsize: 3
+    mintime: 10
